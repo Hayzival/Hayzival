@@ -24,10 +24,6 @@ I'm Hayzival, the guy who learns to program in several languages
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Hayzival&theme=radical&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayzival&layout=compact" />
-</a>
-
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Hayzival" alt="visitor badge"/>
