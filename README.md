@@ -23,7 +23,6 @@ I'm Hayzival, the guy who learns to program in several languages
 <a style="text-decoration: none;" href="https://youtube.com/UltraX1">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Hayzival&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-----
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Hayzival" alt="visitor badge"/>
