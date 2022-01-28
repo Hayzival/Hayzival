@@ -25,7 +25,7 @@ I'm Hayzival, the guy who learns to program in several languages
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayzival)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayzival&layout=compact" />
 </a>
 
 
