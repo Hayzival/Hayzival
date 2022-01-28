@@ -21,7 +21,7 @@ I'm Hayzival, the guy who learns to program in several languages
 ## My Activities
 
 <a style="text-decoration: none;" href="https://youtube.com/UltraX1">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Hayzival&theme=gruvbox&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Hayzival&theme=radical&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 
 <p align='center'>
