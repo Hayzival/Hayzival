@@ -10,7 +10,6 @@ I'm Hayzival, the guy who learns to program in several languages
 
 - :muscle:  Currently creating discord bots and small projects.
 - :gift_heart:  Owner of Artémis Bot, a personal bot.
-- ✊ Not perfect, but i'll be one day.
 
 
 ## :wrench: Interests
