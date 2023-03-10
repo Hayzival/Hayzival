@@ -40,8 +40,3 @@ I'm Hayzival, a computer science student who learns programing in several langua
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hayzival&theme=dark&hide_border=false)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=Hayzival&icon=5&color=11)](https://visitcount.itsvg.in)
